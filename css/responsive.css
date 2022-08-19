@@ -1,0 +1,324 @@
+
+/*Responsive code start here*/
+
+ /*
+    *low resulation mobile phone ----- galaxy fold code start
+ */
+@media (min-width: 279px) and (max-width: 319px) {
+	/*small device code start*/
+.container{
+	width: 70%;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+.col-lg-3{
+	width: 100%;
+	float: left;
+ }
+ .col-lg-4{
+	width: 100%;
+	float: left;
+ }
+ .col-lg-6{
+	width: 100%;
+	float: left;
+ }
+.col-lg-9{
+	width: 100%;
+	float: left;
+ }
+.col-lg-12{
+	width: 100%;
+	float: left;
+ }
+.header .logo{
+ 	width: 100%;
+ 	text-align: center;
+ }
+.header .logo img{
+ 	width: 110px;
+ }
+ .header .navbar{
+ 	text-align: left;
+ }
+ .header .navbar li a{
+ 	font-size: 7px;
+ 	text-align: center;
+ 	margin: 10px 0px 0px 10px;
+ }
+ .online-section{
+	padding: 30px 0px;
+}
+.inner-online h1{
+	font-size: 28px;
+	line-height: 38px;
+}
+.inner-online p{
+	font-size: 12px;
+	line-height: 22px;
+}
+.inner-online .banner-img{
+	width: 80%;
+}
+.inner-feature{
+	width: 70%;
+	margin: 0px 0px 15px;
+}
+.succeccful-section .project{
+	width: 80%;
+}
+.inner-left p{
+	font-size: 14px;
+	line-height: 24px;
+	margin: 10px 0px;
+}
+.project{
+	font-size: 34px;
+	line-height: 44px;
+	text-align: left;
+}
+.footer p{
+	font-size: 7px;
+}
+
+ .overview h1{
+      font-size: 18px;
+ }
+
+/*small device code end*/
+ }
+ /*
+   * most of the smart phone devices code start
+ */
+ @media (min-width: 320px) and (max-width: 480px) {
+	/*maximum device code start*/
+.container{
+	width: 90%;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+.col-lg-3{
+	width: 100%;
+	float: left;
+ }
+ .col-lg-4{
+	width: 100%;
+	float: left;
+ }
+ .col-lg-6{
+	width: 100%;
+	float: left;
+ }
+.col-lg-9{
+	width: 100%;
+	float: left;
+ }
+.col-lg-12{
+	width: 100%;
+	float: left;
+ }
+.header .logo{
+ 	width: 100%;
+ 	text-align: center;
+ }
+.header .logo img{
+ 	width: 130px;
+ }
+ .header .navbar{
+ 	text-align: left;
+ }
+ .header .navbar li a{
+ 	font-size: 12px;
+ 	margin: 15px 0px 0px 15px;
+ }
+.online-section{
+	padding: 30px 0px;
+}
+.inner-online h1{
+	font-size: 28px;
+	line-height: 38px;
+}
+.inner-online p{
+	font-size: 12px;
+	line-height: 22px;
+}
+.inner-online .banner-img{
+	width: 80%;
+}
+.inner-feature{
+	margin: 0px 0px 15px;
+}
+.succeccful-section .project{
+	width: 80%;
+}
+.project{
+	font-size: 50px;
+	line-height: 64px;
+}
+
+ .overview h1{
+      font-size: 16px;
+      line-height: 26px;
+      font-weight: 600;
+ }
+ /*maximum device code end*/
+ }
+
+ /*
+   *mobile phone and low resulation devices code start
+ */
+  @media (min-width: 481px) and (max-width: 767px) {
+	/*481-767 device code start*/
+.container{
+	width: 90%;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+.col-lg-3{
+	width: 100%;
+	float: left;
+ }
+ .col-lg-4{
+	width: 100%;
+	float: left;
+ }
+ .col-lg-6{
+	width: 100%;
+	float: left;
+ }
+.col-lg-9{
+	width: 100%;
+	float: left;
+ }
+.col-lg-12{
+	width: 100%;
+	float: left;
+ }
+
+.header .logo{
+ 	width: 100%;
+ 	text-align: center;
+ }
+.header .logo img{
+ 	width: 130px;
+ }
+ .header .navbar{
+ 	text-align: center;
+ }
+ .header .navbar li a{
+ 	margin: 15px 0px 0px 15px;
+ }
+ .inner-online .banner-img{
+ 	width: 80%;
+ }
+ .overview h1{
+      font-size: 17px;
+      line-height: 27px;
+      font-weight: 600;
+ }
+ /*481-767 device code end*/
+}
+
+ /*
+    * tablate, notebook devices code start 
+ */
+ @media (min-width: 768px) and (max-width: 1024px) {
+	/* tablate device code start*/
+ .container{
+	width: 100%;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+.col-lg-3{
+	width: 100%;
+	float: left;
+ }
+ .col-lg-4{
+	width: 100%;
+	float: left;
+ }
+ .col-lg-6{
+	width: 100%;
+	float: left;
+ }
+.col-lg-9{
+	width: 100%;
+	float: left;
+ }
+.col-lg-12{
+	width: 100%;
+	float: left;
+ }
+.header .logo{
+ 	width: 100%;
+ 	text-align: center;
+ }
+.header .logo img{
+ 	width: 160px;
+ }
+ .header .navbar{
+ 	text-align: center;
+ }
+ .header .navbar li a{
+ 	font-size: 25px;
+ 	margin: 25px 0px 0px 25px;
+ }
+ .inner-online p{
+ 	font-size: 24px;
+ 	line-height: 44px;
+ }
+ .inner-left h2{
+ 	text-align: center;
+ }
+ .inner-left p{
+ 	font-size: 26px;
+ 	line-height: 36px;
+ 	text-align: left;
+ 	margin: 15px 12px 15px;
+ }
+ .project{
+ 	font-size: 66px;
+ 	line-height: 86px;
+ 	font-weight: 700;
+ }
+ .feature-section{
+ 	width: 100%;
+ 	padding: 40px 10px 30px;
+ }
+ .inner-feature{
+ 	padding: 60px 40px;
+ 	margin: 30px 20px;
+ }
+ .inner-feature img{
+    width: 98%;
+    height: 150;
+    padding: 40px 0px;
+ }
+ .inner-feature h4{
+ 	font-size: 28px;
+ }
+ .inner-feature p{
+ 	font-size: 18px;
+ 	line-height: 28px;
+ 	font-weight: 600;
+ 	margin: 15px 0px;
+ }
+ .overview h1{
+      font-size: 36px;
+      line-height: 46px;
+      font-weight: 400;
+}
+ /*tablate device code end*/
+}
